@@ -1,6 +1,0 @@
-{
-  "name": "Site Officiel UIxdev",
-  "description": "Portail officiel de UIxdev : téléchargement d'applications Android, jeu Geometry Dash et testeur de connexion Internet.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
